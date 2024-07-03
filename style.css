@@ -1,0 +1,25 @@
+.bluebox{
+    background-color: blue;
+    width:40vw;
+    height:80vw;
+    margin: 0;
+    padding: 30px;
+}
+.greenbox{
+    background-color: green;
+    width: 30vw;
+    height: 15vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.redbox{
+    background-color: red;
+    width: 5vw;
+    height:5vw;
+    margin: 0;
+    }
+*{
+        background-color: black;
+        margin: 0;
+    }
